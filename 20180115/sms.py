@@ -2,8 +2,8 @@
 from twilio.rest import Client
 
 # 下面认证信息的值在你的 twilio 账户里可以找到
-account_sid = "AC548709ce4a81028a1c134af773035859"
-auth_token = "7453b46af8caecffe4c033ad3ce68a18"
+account_sid = "_AC548709ce4a81028a1c134af773035859"
+auth_token = "_7453b46af8caecffe4c033ad3ce68a18"
 
 client = Client(account_sid, auth_token)
 
